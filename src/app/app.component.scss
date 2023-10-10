@@ -1,0 +1,445 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border: solid 1px darkgrey;
+  height: 80px;
+  margin-top: 1px;
+}
+
+.user {
+  color: seagreen;
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
+  border: solid 2px seagreen;
+  padding: 12px 5px;
+  width: 200px;
+  height: 45px;
+  font-size: large;
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: host, Tahoma;
+}
+
+.user:hover {
+  background-color: seagreen;
+  color: white;
+}
+
+.p-user {
+  margin-top: -3px;
+  font-size: medium;
+}
+
+.mom-pic {
+  width: 120px;
+  height: 100px;
+  margin-right: 15px;
+  margin-top: -12px;
+}
+
+.p-head {
+  display: flex;
+  justify-content: space-between;
+  width: 23%;
+  margin-top: 10px;
+}
+
+.p1 {
+  display: flex;
+  font-size: medium;
+  font-family: host, Tahoma;
+}
+
+.p1:hover {
+  color: seagreen;
+}
+
+.n1 {
+  background-color: rebeccapurple;
+  border-radius: 100%;
+  padding: 2.2px 2.2px 2.2px 2.2px;
+  width: 0.01px;
+  height: 0.01px;
+  margin-top: 25px;
+}
+
+.welcome {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+
+}
+
+.main-wel {
+  display: flex;
+  margin-top: 80px;
+  margin-left: 420px;
+  justify-content: space-around;
+  width: 20%;
+}
+
+.p-wel {
+  border: solid 2px seagreen;
+  width: 360px;
+  height: 50px;
+  margin-right: -70px;
+}
+
+.p-well {
+  color: seagreen;
+  justify-content: center;
+  font-size: large;
+  font-weight: bold;
+  font-family: host, Tahoma;
+  margin-top: 10px;
+  margin-left: 80px;
+}
+
+.kid-img {
+  margin-top: 40px;
+  margin-left: 80px;
+}
+
+.finger {
+  margin-right: -300px;
+}
+
+.p-matn {
+  margin-left: 200px;
+  margin-right: -200px;
+}
+
+.p2 {
+  color: seagreen;
+  font-size: xxx-large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+
+}
+
+.p3 {
+  color: grey;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bold;
+  margin-left: 250px;
+  margin-right: -150px;
+}
+
+
+.a {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  margin-left: 220px;
+  margin-right: -100px;
+  margin-top: 50px;
+}
+
+.dokmeh {
+  color: white;
+  background-color: seagreen;
+  border-radius: 10px 10px 10px 10px;
+  width: 350px;
+  height: 60px;
+
+}
+
+.p4 {
+  color: black;
+  font-family: host, Tahoma;
+  font-size: medium;
+  font-weight: bold;
+
+}
+
+.p5 {
+  color: white;
+  font-family: host, Tahoma;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.mtn1 {
+  margin-top: 250px;
+}
+
+.p6 {
+  color: seagreen;
+  font-size: x-large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+  justify-content: flex-end;
+  margin-left: 80%;
+}
+
+.p7 {
+  color: dimgrey;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+  border-radius: 10px 10px 10px 10px;
+  margin: 5px 0 10px 0;
+  padding: 12px 5px;
+  width: 85%;
+  height: 160px;
+  margin-left: 110px;
+}
+
+.b1 {
+  background-color: seagreen;
+  width: 300px;
+  height: 60px;
+  border-radius: 10px 10px 10px 10px;
+  justify-content: center;
+  margin-left: 40%;
+  margin-top: 60px;
+}
+
+.p8 {
+  color: white;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bold;
+}
+
+.p9 {
+  color: seagreen;
+  font-size: x-large;
+  font-family: host, Tahoma;
+  font-weight: bold;
+  margin-left: 75%;
+}
+
+.mtn2 {
+  margin-top: 200px;
+}
+
+.p10 {
+  color: seagreen;
+  font-size: x-large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+  justify-content: flex-end;
+  margin-left: 65%;
+}
+
+.p11 {
+  color: dimgrey;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+  border-radius: 10px 10px 10px 10px;
+  margin: 5px 0 10px 0;
+  padding: 12px 5px;
+  width: 85%;
+  height: 160px;
+  margin-left: 110px;
+}
+
+.m1 {
+  margin-left: 65%;
+  margin-top: 70px;
+}
+
+.p12 {
+  color: seagreen;
+  font-size: x-large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+}
+
+.p13 {
+  color: lightslategrey;
+  font-size: medium;
+  font-family: host, Tahoma;
+  font-weight: bold;
+  margin-left: 35px;
+}
+
+.last {
+  margin-top: 15%;
+  margin-left: 40%;
+}
+
+.p14 {
+  color: seagreen;
+  font-size: x-large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+  margin-left: 53%;
+}
+
+.b2 {
+  color: white;
+  background-color: seagreen;
+  width: 300px;
+  height: 60px;
+  border-radius: 10px 10px 10px 10px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 60px;
+}
+
+.p15 {
+  margin-left: 60%;
+  font-size: medium;
+  font-family: host, Tahoma;
+  font-weight: bolder
+}
+
+.foot-main1 {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-left: 5%;
+}
+
+.menu1 {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+
+}
+
+.p16 {
+  color: black;
+  font-size: medium;
+  font-family: host, Tahoma;
+  font-weight: bold
+}
+
+.p17 {
+  color: dimgrey;
+  font-size: small;
+  margin-left: 39%;
+  font-family: host, Tahoma;
+  font-weight: bolder
+}
+
+.p18 {
+  color: dimgrey;
+  font-size: small;
+  margin-left: 22%;
+  font-family: host, Tahoma;
+  font-weight: bolder
+}
+
+.p19 {
+  color: dimgrey;
+  font-size: small;
+  font-family: host, Tahoma;
+  font-weight: bolder
+}
+
+.application {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  margin-left: 7%;
+  margin-top: 10%;
+}
+
+.kadr {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 15px 15px 15px 15px;
+  border: solid 1px dimgray;
+  margin: 5px 0 10px 0;
+  padding: 12px 5px;
+  width: 90%;
+  height: 100px;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+.store {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1%;
+  margin-top: 5px;
+}
+
+.mom-qpp {
+  display: flex;
+}
+
+.img10 {
+  width: 155px;
+  height: 155px;
+  margin-right: 3%;
+  margin-top: -8.5%;
+}
+
+.img11 {
+
+}
+
+.mom-qpp {
+  display: flex;
+  justify-content: space-between;
+  width: 22%;
+  align-content: center;
+}
+
+.p20 {
+  margin-top: 8%;
+  margin-left: 10%;
+  color: black;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bolder
+}
+
+.app {
+  width: 60px;
+  height: 60px;
+  margin-right: 5.5%;
+  margin-top: 2.5%;
+}
+
+.end {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.p22 {
+  width: 50%;
+  margin-left: 44%;
+  margin-top: 1%;
+  color: dimgrey;
+  font-size: small;
+  font-family: host, Tahoma;
+  font-weight: bold;
+}
+
+.p21 {
+  width: 50%;
+  margin-left: 73%;
+  margin-top: 3%;
+  color: black;
+  font-size: large;
+  font-family: host, Tahoma;
+  font-weight: bolder;
+}
+
+.end-pic {
+  display: flex;
+  justify-content: space-around;
+  width: 32%;
+  margin-left: 5%;
+}
+.made{
+  margin-left: 50%;
+  margin-top: 3%;
+}
+.the-end{
+  margin-left: 25%;
+  font-family: host, Tahoma;
+}
+
+
+
